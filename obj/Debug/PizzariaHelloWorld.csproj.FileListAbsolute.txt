@@ -1,0 +1,67 @@
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Bot Application.dll.config
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Bot Application.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Bot Application.pdb
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Autofac.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Chronic.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Microsoft.Bot.Builder.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Microsoft.Bot.Connector.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Newtonsoft.Json.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\System.Net.Http.Formatting.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\System.Web.Http.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\System.Web.Http.WebHost.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Autofac.xml
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Microsoft.Bot.Builder.xml
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.xml
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Microsoft.Bot.Connector.xml
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\Newtonsoft.Json.xml
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\System.Net.Http.Formatting.xml
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\System.Web.Http.xml
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\System.Web.Http.WebHost.xml
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\ar\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\cs\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\de-dE\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\en\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\es\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\fa\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\fr\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\ja\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\bin\zh-hans\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\obj\Debug\PizzariaHelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\obj\Debug\PizzariaHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\obj\Debug\Bot Application.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\PizzariaHelloWorld\obj\Debug\Bot Application.pdb
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\Maratona%20Bots%20-%20QnAMaker\PizzariaHelloWorld\obj\Debug\PizzariaHelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\Maratona%20Bots%20-%20QnAMaker\PizzariaHelloWorld\obj\Debug\PizzariaHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\Maratona%20Bots%20-%20QnAMaker\PizzariaHelloWorld\obj\Debug\Bot Application.dll
+C:\Users\jucinei.santos\source\repos\PizzariaHelloWorld\Maratona%20Bots%20-%20QnAMaker\PizzariaHelloWorld\obj\Debug\Bot Application.pdb
